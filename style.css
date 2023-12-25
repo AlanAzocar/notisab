@@ -56,7 +56,7 @@ a {
 }
 
 a:hover {
-  color: #144c24; /* Color principal */
+  color: whitesmoke; /* Color principal */
 }
 
 body {
@@ -209,4 +209,25 @@ body {
   height: auto; /* Mantiene la proporción de la imagen */
   border-radius: 50%; /* Da un efecto redondeado si es necesario */
   /* Otros estilos opcionales */
+}
+
+.servicios{
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: left;
+  margin-bottom: 1%;
+}
+
+.formulario{
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: left;
 }
